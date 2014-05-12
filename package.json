@@ -1,0 +1,9 @@
+{
+  "name": "addontest",
+  "title": "AddOnTest",
+  "id": "jid1-Fj8nfuMNsn1vTw",
+  "description": "gils first basic add-on",
+  "author": "Gil",
+  "license": "MPL 2.0",
+  "version": "0.1"
+}
